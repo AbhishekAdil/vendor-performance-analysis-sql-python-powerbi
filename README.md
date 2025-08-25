@@ -75,7 +75,7 @@ vendor-performance-analysis/
 |   |-- Vendor Performance Analysis Dashboard.pbix
 ```
 
-![Project Flow](<Project Flow.png>)
+![Project Flow](Project Flow.png)
 
 ---
 
@@ -152,7 +152,7 @@ vendor-performance-analysis/
     - Profit Margin
     - Total Sales
 
-![Vendor Performance Analysis Dashboard](<Vendor Performance Dashboard.png>)
+![Vendor Performance Analysis Dashboard](Vendor Performance Dashboard.png)
 
 ---
 
@@ -194,5 +194,7 @@ python scripts/get_vendor_summary.py
 
 **Abhishek Adil**
 Data Analyst
+
 Email: abhishek.adil2002@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/abhishek-adil-2285351b8/)
