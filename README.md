@@ -75,7 +75,8 @@ vendor-performance-analysis/
 |   |-- Vendor Performance Analysis Dashboard.pbix
 ```
 
-![Project Flow](Project Flow.png)
+### Project Flow
+<img width="1369" height="893" alt="Project Flow" src="https://github.com/user-attachments/assets/05d88314-e614-45f8-9d0d-8395abaef32b" />
 
 ---
 
@@ -151,8 +152,8 @@ vendor-performance-analysis/
     - Total Unsold Capital
     - Profit Margin
     - Total Sales
-
-![Vendor Performance Analysis Dashboard](Vendor Performance Dashboard.png)
+### Vendor Performance Analysis Dashboard
+<img width="1390" height="787" alt="Vendor Performance Dashboard" src="https://github.com/user-attachments/assets/34b009f4-1acd-4fce-94f1-ebc27ec9aaf1" />
 
 ---
 
@@ -190,11 +191,12 @@ python scripts/get_vendor_summary.py
 - Clear unsold inventory strategically
 - Improve marketing for underperforming vendors
 
-<h2><a class="anchor" id="author--contact"></a> Author & Contact</h2>
+<h2><a class="anchor" id="author-contact"></a> Author & Contact</h2>
 
 **Abhishek Adil**
+
 Data Analyst
 
 Email: abhishek.adil2002@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-adil-2285351b8/)
+[LinkedIn](https://www.linkedin.com/in/abhishek-adil-2285351b8/) : abhishekadil
